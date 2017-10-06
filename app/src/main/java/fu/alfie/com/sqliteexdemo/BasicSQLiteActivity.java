@@ -114,4 +114,5 @@ public class BasicSQLiteActivity extends AppCompatActivity {
             onCreate(db); //創建新表格
         }
     }
+
 }
